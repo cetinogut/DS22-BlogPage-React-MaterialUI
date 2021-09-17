@@ -16,7 +16,7 @@ const useStyles = makeStyles((theme) => ({
       },
       blogTitle: {
         fontWeight: 800,
-        paddingBottom: theme.spacing(3)
+        paddingBottom: theme.spacing(3),
       },
       paginationContainer: {
         display: "flex",
